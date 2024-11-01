@@ -1,0 +1,90 @@
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+10.838833093643188
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+19.30629253387451
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+27.90708899497986
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+36.39631462097168
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+44.858078718185425
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+53.35040092468262
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+62.08055281639099
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+70.57107090950012
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+79.20360803604126
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+87.69300317764282
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+96.19085264205933
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+104.68371725082397
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+113.17787623405457
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+121.66618633270264
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+130.16125535964966
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+138.67513918876648
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+147.17634677886963
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+155.6662666797638
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+164.1620078086853
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+172.73954725265503
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+181.4148027896881
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+190.15828227996826
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+198.77912878990173
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+207.30759000778198
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+215.8448042869568
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+224.46818232536316
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+232.98350191116333
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+241.54758477210999
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+250.08209204673767
+['tempo' 'valence' 'explicit' 'duration_ms' 'energy']
+Accuracy:  26.351534908992118
+258.6091585159302

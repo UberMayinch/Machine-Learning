@@ -1,0 +1,112 @@
+['acousticness']
+Accuracy:  31.037761477859277
+10.927510261535645
+['tempo']
+Accuracy:  30.99701168160826
+19.708383560180664
+['explicit']
+Accuracy:  31.730508014126595
+28.415420293807983
+['instrumentalness']
+Accuracy:  31.200760662863352
+37.13272142410278
+['acousticness']
+Accuracy:  31.037761477859277
+45.872265338897705
+['valence']
+Accuracy:  31.7440912795436
+54.59983777999878
+['track_genre' 'danceability']
+Accuracy:  0.4754142895952187
+63.30921936035156
+['acousticness' 'valence']
+Accuracy:  30.05976636783483
+71.9937813282013
+['tempo' 'energy']
+Accuracy:  29.856017386579737
+80.70102953910828
+['valence' 'instrumentalness']
+Accuracy:  29.475685954903557
+89.39214396476746
+['track_genre' 'instrumentalness']
+Accuracy:  0.4889975550122249
+98.12522053718567
+['track_genre' 'explicit']
+Accuracy:  0.4889975550122249
+108.41592788696289
+['acousticness' 'duration_ms' 'speechiness']
+Accuracy:  27.451779407769628
+117.36700201034546
+['acousticness' 'danceability' 'popularity']
+Accuracy:  18.853572398804673
+126.22737836837769
+['energy' 'liveness' 'loudness']
+Accuracy:  30.874762292855202
+135.10261797904968
+['popularity' 'energy' 'explicit']
+Accuracy:  21.40722629720185
+144.31227898597717
+['energy' 'acousticness' 'valence']
+Accuracy:  28.484107579462105
+153.5181384086609
+['tempo' 'energy' 'loudness']
+Accuracy:  28.334691659875034
+162.695303440094
+['acousticness' 'popularity' 'loudness' 'valence']
+Accuracy:  18.513990763379518
+171.86168813705444
+['duration_ms' 'track_genre' 'instrumentalness' 'valence']
+Accuracy:  0.4618310241782124
+180.88158297538757
+['liveness' 'duration_ms' 'speechiness' 'valence']
+Accuracy:  28.87802227655528
+189.97616982460022
+['popularity' 'instrumentalness' 'loudness' 'speechiness']
+Accuracy:  18.541157294213527
+199.0751757621765
+['popularity' 'duration_ms' 'liveness' 'loudness']
+Accuracy:  18.541157294213527
+208.15441274642944
+['liveness' 'loudness' 'track_genre' 'instrumentalness']
+Accuracy:  0.44824775876120615
+217.2033658027649
+['acousticness' 'tempo' 'energy' 'speechiness' 'instrumentalness']
+Accuracy:  24.966041836457485
+226.23052978515625
+['energy' 'duration_ms' 'explicit' 'speechiness' 'acousticness']
+Accuracy:  24.775876120619397
+235.24996900558472
+['popularity' 'instrumentalness' 'explicit' 'valence' 'speechiness']
+Accuracy:  17.440912795436024
+243.9278905391693
+['popularity' 'loudness' 'danceability' 'track_genre' 'acousticness']
+Accuracy:  0.6791632708503124
+252.59954071044922
+['valence' 'loudness' 'energy' 'tempo' 'track_genre']
+Accuracy:  0.8693289866883999
+261.24455642700195
+['energy' 'duration_ms' 'acousticness' 'liveness' 'valence']
+Accuracy:  26.541700624830213
+269.9223508834839
+['loudness' 'track_genre' 'speechiness' 'danceability' 'tempo' 'valence']
+Accuracy:  0.8149959250203749
+278.5079686641693
+['popularity' 'speechiness' 'explicit' 'instrumentalness' 'track_genre'
+ 'valence']
+Accuracy:  0.7063298016843249
+287.10924768447876
+['speechiness' 'valence' 'popularity' 'acousticness' 'loudness'
+ 'danceability']
+Accuracy:  12.931268676989948
+295.7235450744629
+['energy' 'acousticness' 'explicit' 'instrumentalness' 'tempo'
+ 'danceability']
+Accuracy:  23.34963325183374
+304.3407983779907
+['track_genre' 'acousticness' 'loudness' 'instrumentalness' 'speechiness'
+ 'explicit']
+Accuracy:  0.42108122792719366
+312.9486930370331
+['popularity' 'valence' 'explicit' 'energy' 'acousticness' 'loudness']
+Accuracy:  14.819342569953816
+321.56755924224854
